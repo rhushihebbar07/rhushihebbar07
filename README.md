@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F76647&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Rhushi+Hebbar;BCA+Final+Year+Student;Flask+Developer+%7C+Web+Automator;Building+Real-World+Projects+with+ChatGPT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F76647&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Rhushi+Hebbar;Web+Developer+%7C+Graphic+Designer+%7C+Student;Flask+Developer+%7C+Web+Automator;Building+Real-World+Projects+with+ChatGPT" alt="Typing SVG" />
 </p>
 
 <h1 align="center">🚀 Certificate | Flask | Automation Enthusiast</h1>
@@ -14,9 +14,9 @@
 ## 💼 About Me
 
 - 🎓 Currently pursuing **Bachelor of Computer Applications (BCA)**  
-- 🔥 Passionate about **Flask**, **Web Automation**, and **AI-Integrated Tools**  
-- 🛠️ Focused on **real-world project building** using Python and OpenAI APIs  
-- 🧠 Learning full-stack skills and exploring smart deployment practices
+- 💡 Passionate **Web Developer**, **Graphic Designer**, and **Automation Builder**  
+- 🔥 Skilled in **Flask**, **HTML/CSS**, **WeasyPrint**, **SMTP**, and OpenAI APIs  
+- 🎯 Aiming to become a full-stack developer with creative UI/UX edge
 
 ---
 
@@ -62,4 +62,4 @@
 
 ---
 
-> 🔧 *This profile is under active development — more cool features coming soon!* 🚀
+> 🛠️ *This profile is actively evolving — stay tuned for new automation tools and visual portfolios!* 🚀
