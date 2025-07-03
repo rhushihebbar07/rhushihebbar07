@@ -1,57 +1,65 @@
-<h1 align="center">Hi 👋, I'm Rhushi Hebbar</h1>
-<h3 align="center">BCA Final Year Student | Flask Developer | Automation Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F76647&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Rhushi+Hebbar;BCA+Final+Year+Student;Flask+Developer+%7C+Web+Automator;Building+Real-World+Projects+with+ChatGPT" alt="Typing SVG" />
+</p>
+
+<h1 align="center">🚀 Certificate | Flask | Automation Enthusiast</h1>
+<h3 align="center">Turning college workflows into smart web platforms ✨</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rhushihebbar07&label=Profile%20views&color=0e75b6&style=flat" alt="rhushihebbar07" />
+  <img src="https://komarev.com/ghpvc/?username=rhushihebbar07&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
 ## 💼 About Me
 
-- 🎓 I'm currently pursuing my **BCA** (Bachelor of Computer Applications)
-- 💡 Passionate about **web automation**, **Python-Flask development**, and creating tools that solve real problems
-- 📄 Currently working on **Certificate Generation Systems** for colleges and events
-- 🎯 Goal: To become a full-stack developer and AI integrator
+- 🎓 Currently pursuing **Bachelor of Computer Applications (BCA)**  
+- 🔥 Passionate about **Flask**, **Web Automation**, and **AI-Integrated Tools**  
+- 🛠️ Focused on **real-world project building** using Python and OpenAI APIs  
+- 🧠 Learning full-stack skills and exploring smart deployment practices
 
 ---
 
-## 🚀 My Current Project
+## 🚀 Featured Project
 
 ### 🎓 College Project Approval & Certificate Generator
 
-> A web platform for colleges to manage project approvals and automatically generate/send PDF certificates to students.
+> Smart Flask-based platform that allows students to upload GitHub project links for review and receive auto-generated PDF certificates upon approval.
 
-🔗 [View Project](https://github.com/rhushihebbar07/officialwebpage)  
-📌 Tech Stack: `Flask` · `Python` · `SQLite` · `HTML/CSS` · `WeasyPrint` · `SMTP`
-
----
-
-## 🛠️ Skills & Tools
-
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Flask](https://img.shields.io/badge/Flask-Web%20Framework-black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+🔗 [GitHub Repo](https://github.com/rhushihebbar07/officialwebpage)  
+🧰 Tech Stack: `Flask`, `Python`, `SQLite`, `HTML/CSS`, `WeasyPrint`, `SMTP`, `ChatGPT`
 
 ---
 
-## 📈 GitHub Stats
+## ⚒️ Skills & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhushihebbar07&show_icons=true&theme=github_dark" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhushihebbar07&layout=compact&theme=github_dark" width="350"/>
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-Web%20Framework-black?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 📊 GitHub Stats
 
-- 📧 Email: [rhushihebbar22@gmail.com](mailto:rhushihebbar22@gmail.com)
-- 🔗 GitHub: [github.com/rhushihebbar07](https://github.com/rhushihebbar07)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rhushihebbar07&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhushihebbar07&layout=compact&theme=radical&hide_border=true&bg_color=00000000" width="350"/>
+</p>
 
 ---
 
-> 📝 *This profile is a work-in-progress. More exciting projects and features coming soon!*
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="mailto:rhushihebbar22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/rhushihebbar07"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+> 🔧 *This profile is under active development — more cool features coming soon!* 🚀
