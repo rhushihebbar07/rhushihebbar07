@@ -26,7 +26,7 @@
 
 > Smart Flask-based platform that allows students to upload GitHub project links for review and receive auto-generated PDF certificates upon approval.
 
-🔗 [GitHub Repo](https://github.com/rhushihebbar07/officialwebpage)  
+🔗 [GitHub Repo](https://github.com/rhushihebbar07/certificate-genrater)  
 🧰 Tech Stack: `Flask`, `Python`, `SQLite`, `HTML/CSS`, `WeasyPrint`, `SMTP`, `ChatGPT`
 
 ---
