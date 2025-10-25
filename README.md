@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif">
+<img src="https://i.pinimg.com/originals/6a/54/f0/6a54f00d7d60b3e15b6ee0c7d2ffb0f2.gif" width="100%">
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rhushi+Hebbar!;&color=F76647" />
