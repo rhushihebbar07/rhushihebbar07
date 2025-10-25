@@ -1,65 +1,86 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F76647&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Rhushi+Hebbar;Web+Developer+%7C+Graphic+Designer+%7C+Student;Flask+Developer+%7C+Web+Automator;Building+Real-World+Projects+with+ChatGPT" alt="Typing SVG" />
-</p>
+<img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif">
 
-<h1 align="center">🚀 Certificate | Flask | Automation Enthusiast</h1>
-<h3 align="center">Turning college workflows into smart web platforms ✨</h3>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rhushi+Hebbar!;&color=F76647" />
+</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rhushihebbar07&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</p>
+<h3 align="center">🚀 BCA Student | Flask Developer | Web Automator | Graphic Designer</h3>
 
----
+<br>
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif">
 
-## 💼 About Me
-
-- 🎓 Currently pursuing **Bachelor of Computer Applications (BCA)**  
-- 💡 Passionate **Web Developer**, **Graphic Designer**, and **Automation Builder**  
-- 🔥 Skilled in **Flask**, **HTML/CSS**, **WeasyPrint**, **SMTP**, and OpenAI APIs  
-- 🎯 Aiming to become a full-stack developer with creative UI/UX edge
+[![GitHub followers](https://img.shields.io/github/followers/rhushihebbar07?logo=github&style=for-the-badge)](https://github.com/rhushihebbar07)
+[![Profile Views](https://komarev.com/ghpvc/?username=rhushihebbar07&label=Profile%20Views&color=F76647&style=for-the-badge)]()
 
 ---
 
-## 🚀 Featured Project
+### 💡 About Me
 
-### 🎓 College Project Approval & Certificate Generator
+- 🎓 Pursuing **Bachelor of Computer Applications (BCA)**  
+- 💡 Passionate about **Web Development**, **Automation**, and **Graphic Design**  
+- ⚙️ Skilled in **Flask**, **HTML/CSS**, **JavaScript**, **SQLite**, **WeasyPrint**, and **SMTP**  
+- 🧠 Exploring **AI Integration** with **ChatGPT APIs**  
+- 🔭 Currently working on: **College Project Approval & Certificate Generator**  
+- ✨ Motto: *“Turning college workflows into smart web platforms!”*
 
-> Smart Flask-based platform that allows students to upload GitHub project links for review and receive auto-generated PDF certificates upon approval.
+---
+
+### 🔥 Featured Project
+
+#### 🎓 College Project Approval & Certificate Generator  
+> A Flask-based system where students upload GitHub project links for review, and receive AI-generated PDF certificates upon approval.  
 
 🔗 [GitHub Repo](https://github.com/rhushihebbar07/certificate-genrater)  
 🧰 Tech Stack: `Flask`, `Python`, `SQLite`, `HTML/CSS`, `WeasyPrint`, `SMTP`, `ChatGPT`
 
 ---
 
-## ⚒️ Skills & Tools
+### 🛠️ Languages & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-Web%20Framework-black?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=python,flask,sqlite,html,css,js,bootstrap,git,github,vscode,photoshop,figma,vercel,netlify,postman,linux" />
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rhushihebbar07&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" height="150" alt="Rhushi's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhushihebbar07&theme=tokyonight&hide_border=false&border_radius=10" height="150" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhushihebbar07&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" height="150" alt="Top Languages" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=rhushihebbar07&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="mailto:rhushihebbar22@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="rhushihebbar22@gmail.com" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/rhushihebbar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="https://github.com/rhushihebbar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="40" width="40" /></a>
+<a href="https://discord.com/users/rhushihebbar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="40" width="40" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhushihebbar07&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhushihebbar07&layout=compact&theme=radical&hide_border=true&bg_color=00000000" width="350"/>
-</p>
+### 🧠 Fun Fact
+> *“I believe automation isn’t just about saving time — it’s about unlocking creativity.”*  
 
 ---
 
-## 🌐 Let's Connect
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-<p align="center">
-  <a href="mailto:rhushihebbar22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/rhushihebbar07"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-> 🛠️ *This profile is actively evolving — stay tuned for new automation tools and visual portfolios!* 🚀
+<div align="center">
+  Made with ❤️ by <a href="https://github.com/rhushihebbar07" target="_blank">Rhushi Hebbar</a>
+</div>
