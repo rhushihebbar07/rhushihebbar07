@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170">
+<rect width="900" height="170" rx="18" fill="#050816" stroke="#00E5FF" stroke-width="2"/>
+<text x="40" y="38" fill="#00E5FF" font-family="monospace" font-size="15">◈ CURRENT OPERATIONS</text>
+<text x="40" y="70" fill="#FFFFFF" font-family="monospace" font-size="14">PYTHON / FLASK</text>
+<text x="300" y="70" fill="#00E5FF" font-family="monospace" font-size="14">██████████████████░░ 90%</text>
+<text x="40" y="102" fill="#FFFFFF" font-family="monospace" font-size="14">AI INTEGRATION</text>
+<text x="300" y="102" fill="#00E5FF" font-family="monospace" font-size="14">████████████████░░░░ 82%</text>
+<text x="40" y="134" fill="#FFFFFF" font-family="monospace" font-size="14">AUTOMATION / WEB</text>
+<text x="300" y="134" fill="#00E5FF" font-family="monospace" font-size="14">█████████████████░░░ 86%</text>
+<text x="760" y="38" text-anchor="end" fill="#73F6FF" font-family="monospace" font-size="12">BUILDING</text>
+</svg>

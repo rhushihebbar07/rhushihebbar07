@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="260" viewBox="0 0 1100 260">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#02040A"/>
+    <stop offset=".55" stop-color="#061827"/>
+    <stop offset="1" stop-color="#00E5FF"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1100" height="260" rx="22" fill="url(#bg)" stroke="#00E5FF" stroke-width="2"/>
+<path d="M25 205H1075M25 55H1075" stroke="#00E5FF" opacity=".18"/>
+<path d="M75 25V235M1025 25V235" stroke="#00E5FF" opacity=".12"/>
+<g fill="#00E5FF" opacity=".7"><circle cx="45" cy="35" r="3"/><circle cx="1055" cy="35" r="3"/><circle cx="45" cy="225" r="3"/><circle cx="1055" cy="225" r="3"/></g>
+<text x="550" y="105" text-anchor="middle" fill="#EFFFFF" font-family="monospace" font-size="55" font-weight="700" filter="url(#glow)">RH // FUTURE NODE</text>
+<text x="550" y="145" text-anchor="middle" fill="#73F6FF" font-family="monospace" font-size="19" letter-spacing="5">DEVELOPER • AI • AUTOMATION • CREATIVE TECH</text>
+<text x="550" y="190" text-anchor="middle" fill="#9AB7C0" font-family="monospace" font-size="14">MCA STUDENT  //  PYTHON + FLASK  //  SYSTEMS IN BUILD MODE</text>
+<text x="45" y="245" fill="#00E5FF" font-family="monospace" font-size="11">STATUS: ONLINE</text>
+<text x="1055" y="245" text-anchor="end" fill="#00E5FF" font-family="monospace" font-size="11">ACCESS: PUBLIC</text>
+</svg>
