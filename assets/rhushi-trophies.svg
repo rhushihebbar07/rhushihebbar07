@@ -1,0 +1,12 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="150" rx="22" fill="#05070d" stroke="#223047"/>
+<text x="55" y="48" fill="#00e5ff" font-family="monospace" font-size="14" letter-spacing="3">ACHIEVEMENT GRID</text>
+<text x="55" y="88" fill="white" font-family="Arial" font-size="25" font-weight="700">LEARN → BUILD → SHIP → REPEAT</text>
+<text x="55" y="118" fill="#64748b" font-family="monospace" font-size="12">Every project is another node in the learning graph.</text>
+<g transform="translate(950 75)">
+<circle r="48" fill="none" stroke="#00e5ff" stroke-width="2"/>
+<circle r="34" fill="none" stroke="#7c3aed" stroke-width="2" stroke-dasharray="6 8"/>
+<path d="M-20 0H20M0-20V20" stroke="#00e5ff"/>
+<circle r="5" fill="#fff"/>
+</g>
+</svg>

@@ -1,0 +1,42 @@
+<svg width="760" height="920" viewBox="0 0 760 920" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#0b1220"/><stop offset=".55" stop-color="#111827"/><stop offset="1" stop-color="#180c2c"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00e5ff"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+  <filter id="g"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="760" height="920" rx="38" fill="#03050a"/>
+<path d="M380 0V95" stroke="url(#line)" stroke-width="14"/>
+<rect x="330" y="72" width="100" height="70" rx="20" fill="#0b1220" stroke="#00e5ff" stroke-width="3"/>
+<circle cx="380" cy="105" r="16" fill="none" stroke="#00e5ff" stroke-width="5"/>
+<path d="M380 140C270 155 210 210 210 300" fill="none" stroke="#172033" stroke-width="18"/>
+<path d="M380 140C490 155 550 210 550 300" fill="none" stroke="#172033" stroke-width="18"/>
+
+<g transform="translate(110 180)">
+  <rect width="540" height="650" rx="30" fill="url(#card)" stroke="#223047" stroke-width="3"/>
+  <rect x="0" y="0" width="540" height="10" rx="5" fill="url(#line)"/>
+  <text x="38" y="58" fill="#00e5ff" font-family="monospace" font-size="13" letter-spacing="3">DIGITAL ID / RH-07</text>
+  <circle cx="105" cy="145" r="68" fill="#0b1626" stroke="#00e5ff" stroke-width="2"/>
+  <text x="105" y="155" text-anchor="middle" fill="white" font-family="Arial" font-size="48" font-weight="800">RH</text>
+  <text x="195" y="125" fill="white" font-family="Arial" font-size="27" font-weight="800">RHUSHI HEBBAR</text>
+  <text x="195" y="157" fill="#94a3b8" font-family="monospace" font-size="14">DEVELOPER / BUILDER</text>
+  <text x="195" y="185" fill="#64748b" font-family="monospace" font-size="12">AI • WEB • DATA • CLOUD</text>
+
+  <line x1="38" y1="240" x2="502" y2="240" stroke="#223047"/>
+  <text x="38" y="278" fill="#64748b" font-family="monospace" font-size="11">PRIMARY STACK</text>
+  <text x="38" y="314" fill="white" font-family="monospace" font-size="15">PYTHON   JAVASCRIPT   REACT   FLASK</text>
+  <text x="38" y="345" fill="white" font-family="monospace" font-size="15">SQL   BIGQUERY   GIT   GOOGLE CLOUD</text>
+
+  <text x="38" y="402" fill="#64748b" font-family="monospace" font-size="11">BUILD PHILOSOPHY</text>
+  <text x="38" y="438" fill="#cbd5e1" font-family="Arial" font-size="16">Useful systems. Strong interfaces.</text>
+  <text x="38" y="464" fill="#cbd5e1" font-family="Arial" font-size="16">Constant iteration.</text>
+
+  <rect x="38" y="505" width="464" height="1" fill="#223047"/>
+  <text x="38" y="545" fill="#64748b" font-family="monospace" font-size="11">STATUS</text>
+  <circle cx="112" cy="540" r="6" fill="#00e5ff" filter="url(#g)"/>
+  <text x="128" y="545" fill="#00e5ff" font-family="monospace" font-size="13">ONLINE / BUILDING</text>
+
+  <text x="38" y="605" fill="#334155" font-family="monospace" font-size="10">GITHUB.COM/RHUSHIHEBBAR07</text>
+</g>
+</svg>
