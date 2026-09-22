@@ -1,11 +1,17 @@
-# Installation
+# 2D Character README — Storyboard
 
-1. Create a GitHub repository named exactly `rhushihebbar07` for your profile README.
-2. Copy `README.md` and the entire `assets/` folder into the repository root.
-3. Commit and push.
-4. GitHub will render the README automatically.
+1. BOOT — character walks in.
+2. NAME — glitch-style identity introduction.
+3. IDENTITY — character pauses beside the profile story.
+4. TECH — character types while the stack panel reveals.
+5. PROJECTS — character walks through the project matrix.
+6. TELEMETRY — GitHub stats appear as a HUD.
+7. JOURNEY — education and technical progression.
+8. CONNECT — social links open.
+9. OUTRO — character walks away and the transmission closes.
 
-## Important
-- Keep the `assets/` folder beside `README.md`.
-- Replace the LinkedIn URL with your actual profile URL.
-- The GitHub stats use external services and may occasionally be unavailable.
+## Install
+
+Copy `README.md` and the complete `assets/` folder into your GitHub profile repository.
+
+The animations use GIFs because GitHub README pages can render them without JavaScript.

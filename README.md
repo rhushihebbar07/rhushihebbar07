@@ -1,159 +1,126 @@
 <div align="center">
 
-<img src="assets/hero.gif" width="100%" alt="Rhushi Hebbar futuristic animated introduction">
-
-<img src="assets/divider.gif" width="100%" alt="animated divider">
-
 # `RHUSHI HEBBAR`
 
-### `MCA • SOFTWARE DEVELOPER • AI EXPLORER • CREATIVE TECHNOLOGIST`
+<img src="assets/character_walk.gif" width="260" alt="2D character walking">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rhushihebbar07&style=for-the-badge&color=00eaff&label=PROFILE+VIEWS)](https://github.com/rhushihebbar07)
-[![GitHub](https://img.shields.io/badge/GitHub-rhushihebbar07-0b1020?style=for-the-badge&logo=github&logoColor=00eaff)](https://github.com/rhushihebbar07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0b1020?style=for-the-badge&logo=linkedin&logoColor=00eaff)](https://www.linkedin.com/)
+### `A 2D CHARACTER IS GUIDING YOU THROUGH THIS README.`
 
 </div>
 
 ---
 
-<div align="center">
-<img src="assets/mission.svg" width="100%" alt="Mission">
-</div>
+## 🎬 THE STORY
 
-## `01 / SYSTEM IDENTITY`
+**The README is no longer a document. It is a short animated journey.**
+
+```text
+00:00 ── BOOT
+00:02 ── CHARACTER ENTERS
+00:04 ── NAME GLITCH REVEAL
+00:06 ── IDENTITY
+00:12 ── TECH STACK
+00:18 ── PROJECTS
+00:24 ── GITHUB TELEMETRY
+00:28 ── JOURNEY
+00:32 ── CONNECT
+00:36 ── FINAL TRANSMISSION
+```
+
+<img src="assets/01_identity.gif" width="100%" alt="Identity animation">
+
+## `01 / IDENTITY`
+
+<div align="center"><img src="assets/character_idle.gif" width="260" alt="2D character idle"></div>
 
 > **I build digital experiences where software, design and experimentation meet.**
 
-I'm an MCA student and developer interested in **web applications, AI, cloud platforms, automation, data and immersive interfaces**.
+I'm an MCA student and developer exploring **web applications, AI, cloud, data, automation and immersive interfaces**.
 
-I enjoy taking an idea from a rough concept → working prototype → polished experience.
+---
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  CURRENT MODE                                                │
-│                                                              │
-│  LEARNING      ████████████████████░░  92%                  │
-│  BUILDING      █████████████████████░  96%                  │
-│  EXPERIMENTING ██████████████████░░░░  88%                  │
-│  SHIPPING      █████████████████░░░░░  84%                  │
-└──────────────────────────────────────────────────────────────┘
-```
+<div align="center"><img src="assets/character_typing.gif" width="260" alt="2D character typing"></div>
 
-<img src="assets/divider.gif" width="100%" alt="divider">
+<img src="assets/02_stack.gif" width="100%" alt="Tech stack animation">
 
 ## `02 / TECH STACK`
 
 <div align="center">
-
-### LANGUAGES
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp&theme=dark" />
-
-### FRAMEWORKS & DEVELOPMENT
-<img src="https://skillicons.dev/icons?i=flask,react,vite,nodejs&theme=dark" />
-
-### DATA / CLOUD / TOOLS
-<img src="https://skillicons.dev/icons?i=sqlite,supabase,gcp,bigquery,git,github,vscode&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp,react,vite,flask,nodejs&theme=dark">
+<br><br>
+<img src="https://skillicons.dev/icons?i=sqlite,supabase,gcp,bigquery,git,github,vscode&theme=dark">
 </div>
 
-<img src="assets/divider.gif" width="100%" alt="divider">
+---
 
-## `03 / WHAT I BUILD`
+<div align="center"><img src="assets/character_walk.gif" width="240" alt="Character walking"></div>
 
-| AREA | FOCUS |
+<img src="assets/03_projects.gif" width="100%" alt="Projects animation">
+
+## `03 / PROJECT MATRIX`
+
+| PROJECT | WHAT IT DOES |
 |---|---|
-| `WEB` | Responsive interfaces, dashboards, portals and full-stack applications |
-| `AI` | AI-assisted applications, NLP, document processing and experimentation |
-| `DATA` | Data processing, BigQuery and machine-learning workflows |
-| `CLOUD` | Google Cloud, deployment workflows and cloud-native experiments |
-| `CREATIVE` | UI/UX, visual design, photography and interactive experiences |
+| **Resume Analyzer** | Resume extraction, skill analysis, matching and AI-assisted generation |
+| **Semaphore / Aqua Saga** | Immersive event platform with an underwater visual identity |
+| **Billing / ERP** | Product, customer, supplier and billing workflows |
+| **WESAD ECG ML** | ECG features with machine-learning and LOSO evaluation |
 
 ---
 
-## `04 / SELECTED PROJECTS`
+<img src="assets/04_stats.gif" width="100%" alt="GitHub telemetry animation">
 
-### ◈ Resume Analyzer & Generator
-A Flask-based platform for resume extraction, skill analysis, job matching and AI-assisted resume generation.
-
-**Stack:** `Python` `Flask` `SQLite` `spaCy` `OpenAI`
-
-### ◈ Semaphore / Aqua Saga
-An immersive event experience combining a responsive event platform with an underwater visual identity.
-
-**Stack:** `React` `Vite` `Three.js` `GSAP` `Supabase`
-
-### ◈ Billing / ERP System
-A desktop-oriented billing and business-management system with product, category, unit, customer and supplier workflows.
-
-**Stack:** `Python` `PySide6` `SQLite`
-
-### ◈ ECG / WESAD ML Research
-A machine-learning workflow exploring ECG statistical features and Leave-One-Subject-Out evaluation.
-
-**Stack:** `Python` `Random Forest` `SVM` `XGBoost`
-
-<img src="assets/divider.gif" width="100%" alt="divider">
-
-## `05 / GITHUB TELEMETRY`
+## `04 / GITHUB TELEMETRY`
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rhushihebbar07&show_icons=true&hide_border=true&bg_color=030612&title_color=00eaff&icon_color=9b5cff&text_color=d8f7ff&ring_color=00eaff" height="180">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhushihebbar07&layout=compact&hide_border=true&bg_color=030612&title_color=00eaff&text_color=d8f7ff" height="180">
-
+<img src="https://github-readme-stats.vercel.app/api?username=rhushihebbar07&show_icons=true&hide_border=true&bg_color=030712&title_color=00eaff&icon_color=9b5cff&text_color=d8f7ff" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhushihebbar07&layout=compact&hide_border=true&bg_color=030712&title_color=00eaff&text_color=d8f7ff" height="180">
 </div>
 
-<div align="center">
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rhushihebbar07&theme=transparent&hide_border=true&ring=00eaff&fire=9b5cff&currStreakLabel=d8f7ff" width="80%">
+<div align="center"><img src="assets/character_typing.gif" width="250" alt="Character working"></div>
 
-</div>
+<img src="assets/05_journey.gif" width="100%" alt="Journey animation">
 
-<img src="assets/divider.gif" width="100%" alt="divider">
-
-## `06 / CURRENTLY EXPLORING`
+## `05 / JOURNEY`
 
 ```text
-AI SYSTEMS       ███████████████████░░
-CLOUD            ██████████████████░░░
-FULL STACK       ████████████████████░
-3D / WEBGL       ███████████████░░░░░░
-SYSTEM DESIGN    █████████████████░░░░
+BCA
+ │
+ ├── Web Development
+ ├── Python / Flask
+ ├── Cloud / BigQuery
+ ├── AI / ML experiments
+ │
+ ▼
+MCA
+ │
+ └── More systems. More experiments. More things to build.
 ```
 
-- Building production-style web applications
-- Exploring AI-powered developer workflows
-- Improving cloud and data engineering skills
-- Designing interfaces that feel alive rather than static
-
 ---
 
-## `07 / CONNECT`
+<img src="assets/06_connect.gif" width="100%" alt="Connect animation">
+
+## `06 / OPEN CHANNEL`
 
 <div align="center">
 
-**Have an idea worth building?**
+[![GitHub](https://img.shields.io/badge/GITHUB-00eaff?style=for-the-badge&logo=github&logoColor=030712)](https://github.com/rhushihebbar07)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-9b5cff?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/)
 
-[![GitHub](https://img.shields.io/badge/EXPLORE_MY_CODE-00eaff?style=for-the-badge&logo=github&logoColor=030612)](https://github.com/rhushihebbar07)
-[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-9b5cff?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/)
+### `GOOD IDEAS ARE BETTER WHEN THEY ARE BUILT.`
 
-</div>
-
----
-
-<div align="center">
+<img src="assets/character_walk.gif" width="230" alt="Character leaving">
 
 ```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║        CODE IS THE MEDIUM. IDEAS ARE THE SIGNAL.        ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+[ CONNECTION CLOSING... ]
+
+Same human.
+Higher version loading...
+
+> END OF TRANSMISSION_
 ```
-
-### `RHUSHI HEBBAR // END OF TRANSMISSION`
-
-<img src="assets/divider.gif" width="100%" alt="animated footer">
 
 </div>
