@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rhushi+Hebbar!;&color=F76647" />
 </h1>
 
-<h3 align="center">🚀 BCA Student | Flask Developer | Web Automator | Graphic Designer</h3>
+<h3 align="center">🚀 MCA Student | Flask Developer | Web Automator | Graphic Designer</h3>
 
 <br>
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif">
