@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 310">
+<defs>
+ <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#F5F1E8"/>
+  <stop offset="1" stop-color="#E9EEE6"/>
+ </linearGradient>
+ <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#6D8874"/>
+  <stop offset="1" stop-color="#A6B7A4"/>
+ </linearGradient>
+</defs>
+<rect width="1200" height="310" rx="24" fill="url(#paper)"/>
+<path d="M0 260 C190 230 270 285 430 250 S700 215 850 255 S1060 285 1200 240" fill="none" stroke="#C7D1C5" stroke-width="2"/>
+<path d="M965 250 C970 190 1010 135 1065 88" fill="none" stroke="#6D8874" stroke-width="4"/>
+<path d="M1012 155 C985 128 962 122 941 128 C958 151 983 163 1012 155Z" fill="url(#leaf)" opacity=".85"/>
+<path d="M1048 117 C1050 83 1070 61 1093 54 C1096 81 1082 105 1048 117Z" fill="url(#leaf)" opacity=".7"/>
+<path d="M992 190 C1017 169 1041 167 1061 176 C1045 199 1019 205 992 190Z" fill="url(#leaf)" opacity=".6"/>
+<circle cx="1065" cy="88" r="4" fill="#6D8874"/>
+<text x="92" y="105" fill="#27312A" font-family="Georgia, serif" font-size="22" letter-spacing="5">A QUIET PLACE TO BUILD</text>
+<text x="88" y="166" fill="#27312A" font-family="Georgia, serif" font-size="58" font-weight="700">RHUSHI HEBBAR</text>
+<text x="92" y="207" fill="#5B6D60" font-family="Arial, sans-serif" font-size="18" letter-spacing="2">DEVELOPER · CREATOR · LEARNER</text>
+<path d="M92 235 H420" stroke="#9BAA9B" stroke-width="2"/>
+<text x="92" y="264" fill="#68756C" font-family="Georgia, serif" font-size="16">building useful things, thoughtfully.</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop stop-color="#F5F1E8"/>
+  <stop offset="1" stop-color="#E9EEE6"/>
+ </linearGradient>
+</defs>
+<rect width="1200" height="170" rx="24" fill="url(#bg)"/>
+<path d="M0 112 C180 78 330 142 500 105 S820 75 1200 110" fill="none" stroke="#A7B5A6" stroke-width="2"/>
+<path d="M80 112 C95 82 113 67 135 51" fill="none" stroke="#6D8874" stroke-width="3"/>
+<path d="M105 84 C87 74 76 62 76 49 C92 51 106 63 105 84Z" fill="#7E997F"/>
+<path d="M120 68 C122 50 134 39 147 36 C148 52 138 65 120 68Z" fill="#A2B49F"/>
+<text x="600" y="68" text-anchor="middle" fill="#27312A" font-family="Georgia, serif" font-size="25">Thanks for stopping by.</text>
+<text x="600" y="103" text-anchor="middle" fill="#68756C" font-family="Arial, sans-serif" font-size="15" letter-spacing="2">CODE WITH CLARITY · CREATE WITH INTENTION</text>
+</svg>
