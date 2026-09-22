@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 180">
+<defs><linearGradient id="g"><stop stop-color="#0ea5e9"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs>
+<rect width="1000" height="180" rx="24" fill="#0b1220"/>
+<circle cx="105" cy="90" r="55" fill="url(#g)" opacity=".18"/>
+<path d="M76 105h65a27 27 0 0 0 3-54 38 38 0 0 0-71 9 23 23 0 0 0 3 45z" fill="none" stroke="#67e8f9" stroke-width="5"/>
+<text x="190" y="72" fill="#f8fafc" font-family="Arial" font-size="28" font-weight="700">CLOUD &amp; DATA EXPLORATION</text>
+<text x="190" y="105" fill="#94a3b8" font-family="monospace" font-size="17">BigQuery  •  Dataflow  •  Pub/Sub  •  Cloud Run</text>
+<text x="190" y="135" fill="#94a3b8" font-family="monospace" font-size="17">Cloud Build  •  Artifact Registry  •  Cloud Deploy</text>
+</svg>
