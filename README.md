@@ -1,151 +1,159 @@
 <div align="center">
 
-<img src="./assets/quiet-header.svg" width="100%" alt="Rhushi Hebbar — Quiet Craft"/>
+<img src="assets/hero.gif" width="100%" alt="Rhushi Hebbar futuristic animated introduction">
 
-<br><br>
+<img src="assets/divider.gif" width="100%" alt="animated divider">
 
-# Rhushi Hebbar
+# `RHUSHI HEBBAR`
 
-### Developer · Creator · Learner
+### `MCA • SOFTWARE DEVELOPER • AI EXPLORER • CREATIVE TECHNOLOGIST`
 
-*Building useful things, thoughtfully.*
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white)](https://github.com/rhushihebbar07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-496A5A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-6B7280?style=flat-square&logo=gmail&logoColor=white)](mailto:rhushihebbar07@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=rhushihebbar07&style=for-the-badge&color=00eaff&label=PROFILE+VIEWS)](https://github.com/rhushihebbar07)
+[![GitHub](https://img.shields.io/badge/GitHub-rhushihebbar07-0b1020?style=for-the-badge&logo=github&logoColor=00eaff)](https://github.com/rhushihebbar07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0b1020?style=for-the-badge&logo=linkedin&logoColor=00eaff)](https://www.linkedin.com/)
 
 </div>
 
 ---
-
-## About
-
-I'm an **MCA student at Nitte, Mangalore**, interested in building practical software and thoughtful digital experiences.
-
-I enjoy working across **web development, AI, data, cloud technologies and visual design**. My approach is simple: understand the problem, keep the experience clear, and build something useful.
-
-> **Good software doesn't need to shout. It just needs to work well.**
-
----
-
-## Selected Work
-
-### 01 — Resume Analyzer
-
-A Flask application that reads PDF resumes, extracts useful information, analyzes skills and qualifications, suggests suitable roles, and supports AI-assisted resume generation.
-
-`Python` `Flask` `SQLite` `spaCy` `OpenAI API`
-
----
-
-### 02 — Semaphore · Aqua Saga
-
-A responsive event experience built around an underwater visual identity, combining event information with immersive motion and interactive UI.
-
-`React` `Vite` `Three.js` `GSAP` `Supabase`
-
----
-
-### 03 — WESAD ECG AI
-
-A machine-learning experiment using ECG features from the WESAD dataset with **Leave-One-Subject-Out** evaluation.
-
-`Python` `Random Forest` `SVM` `XGBoost`
-
----
-
-### 04 — Billing / ERP
-
-A desktop software concept for billing and business management with products, categories, units, customers, suppliers and GST-oriented data.
-
-`Python` `PySide6` `SQLite`
-
----
-
-## Tools I Work With
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,vite,flask,sqlite,mysql,supabase,git,github,gcp,docker,linux,vscode,figma&perline=9" />
-
+<img src="assets/mission.svg" width="100%" alt="Mission">
 </div>
 
-<br>
+## `01 / SYSTEM IDENTITY`
 
-| Area | Tools |
-|---|---|
-| **Languages** | Python · JavaScript · HTML · CSS · SQL |
-| **Web** | React · Vite · Flask · SQLAlchemy |
-| **Data / AI** | spaCy · BigQuery · Machine Learning · PDF processing |
-| **Cloud** | Google Cloud · Supabase |
-| **Tools** | Git · GitHub · VS Code · Docker · Figma |
+> **I build digital experiences where software, design and experimentation meet.**
 
----
+I'm an MCA student and developer interested in **web applications, AI, cloud platforms, automation, data and immersive interfaces**.
 
-## Currently
+I enjoy taking an idea from a rough concept → working prototype → polished experience.
 
 ```text
-learning        AI · Cloud · Data · Full Stack
-building        practical software & web experiences
-exploring       better UI, automation & 3D interaction
-growing         projects that solve real problems
+┌──────────────────────────────────────────────────────────────┐
+│  CURRENT MODE                                                │
+│                                                              │
+│  LEARNING      ████████████████████░░  92%                  │
+│  BUILDING      █████████████████████░  96%                  │
+│  EXPERIMENTING ██████████████████░░░░  88%                  │
+│  SHIPPING      █████████████████░░░░░  84%                  │
+└──────────────────────────────────────────────────────────────┘
 ```
 
----
+<img src="assets/divider.gif" width="100%" alt="divider">
 
-## A Little More
-
-- 🎓 MCA — Nitte, Mangalore
-- 🧩 Interested in full-stack development
-- ☁️ Exploring Google Cloud and BigQuery
-- 🤖 Experimenting with AI and machine learning
-- 🎨 Interested in photography, design and creative technology
-- 🌱 Always learning something new
-
----
-
-## GitHub
+## `02 / TECH STACK`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rhushihebbar07&show_icons=true&hide_border=true&title_color=496A5A&icon_color=496A5A&text_color=374151&bg_color=00000000" height="165"/>
+### LANGUAGES
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp&theme=dark" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rhushihebbar07&hide_border=true&background=00000000&ring=496A5A&fire=7C8F7A&currStreakLabel=496A5A" height="165"/>
+### FRAMEWORKS & DEVELOPMENT
+<img src="https://skillicons.dev/icons?i=flask,react,vite,nodejs&theme=dark" />
+
+### DATA / CLOUD / TOOLS
+<img src="https://skillicons.dev/icons?i=sqlite,supabase,gcp,bigquery,git,github,vscode&theme=dark" />
 
 </div>
 
-<br>
+<img src="assets/divider.gif" width="100%" alt="divider">
+
+## `03 / WHAT I BUILD`
+
+| AREA | FOCUS |
+|---|---|
+| `WEB` | Responsive interfaces, dashboards, portals and full-stack applications |
+| `AI` | AI-assisted applications, NLP, document processing and experimentation |
+| `DATA` | Data processing, BigQuery and machine-learning workflows |
+| `CLOUD` | Google Cloud, deployment workflows and cloud-native experiments |
+| `CREATIVE` | UI/UX, visual design, photography and interactive experiences |
+
+---
+
+## `04 / SELECTED PROJECTS`
+
+### ◈ Resume Analyzer & Generator
+A Flask-based platform for resume extraction, skill analysis, job matching and AI-assisted resume generation.
+
+**Stack:** `Python` `Flask` `SQLite` `spaCy` `OpenAI`
+
+### ◈ Semaphore / Aqua Saga
+An immersive event experience combining a responsive event platform with an underwater visual identity.
+
+**Stack:** `React` `Vite` `Three.js` `GSAP` `Supabase`
+
+### ◈ Billing / ERP System
+A desktop-oriented billing and business-management system with product, category, unit, customer and supplier workflows.
+
+**Stack:** `Python` `PySide6` `SQLite`
+
+### ◈ ECG / WESAD ML Research
+A machine-learning workflow exploring ECG statistical features and Leave-One-Subject-Out evaluation.
+
+**Stack:** `Python` `Random Forest` `SVM` `XGBoost`
+
+<img src="assets/divider.gif" width="100%" alt="divider">
+
+## `05 / GITHUB TELEMETRY`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rhushihebbar07&bg_color=00000000&color=496A5A&line=7C8F7A&point=374151&area=true&hide_border=true" width="92%" alt="GitHub activity"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rhushihebbar07&show_icons=true&hide_border=true&bg_color=030612&title_color=00eaff&icon_color=9b5cff&text_color=d8f7ff&ring_color=00eaff" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhushihebbar07&layout=compact&hide_border=true&bg_color=030612&title_color=00eaff&text_color=d8f7ff" height="180">
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rhushihebbar07&theme=transparent&hide_border=true&ring=00eaff&fire=9b5cff&currStreakLabel=d8f7ff" width="80%">
+
+</div>
+
+<img src="assets/divider.gif" width="100%" alt="divider">
+
+## `06 / CURRENTLY EXPLORING`
+
+```text
+AI SYSTEMS       ███████████████████░░
+CLOUD            ██████████████████░░░
+FULL STACK       ████████████████████░
+3D / WEBGL       ███████████████░░░░░░
+SYSTEM DESIGN    █████████████████░░░░
+```
+
+- Building production-style web applications
+- Exploring AI-powered developer workflows
+- Improving cloud and data engineering skills
+- Designing interfaces that feel alive rather than static
+
+---
+
+## `07 / CONNECT`
+
+<div align="center">
+
+**Have an idea worth building?**
+
+[![GitHub](https://img.shields.io/badge/EXPLORE_MY_CODE-00eaff?style=for-the-badge&logo=github&logoColor=030612)](https://github.com/rhushihebbar07)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-9b5cff?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/)
 
 </div>
 
 ---
 
-## Contribution Trail
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="92%" alt="GitHub contribution snake"/>
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║        CODE IS THE MEDIUM. IDEAS ARE THE SIGNAL.        ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-</div>
+### `RHUSHI HEBBAR // END OF TRANSMISSION`
 
----
-
-<div align="center">
-
-<img src="./assets/quiet-footer.svg" width="100%" alt="Quiet Craft footer"/>
-
-<br>
-
-**Code with clarity. Create with intention.**
-
-<br>
-
-`quiet craft / rhushi hebbar`
+<img src="assets/divider.gif" width="100%" alt="animated footer">
 
 </div>

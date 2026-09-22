@@ -1,16 +1,11 @@
-# Quiet Craft — GitHub Profile
+# Installation
 
-Repository target:
-`rhushihebbar07/rhushihebbar07`
+1. Create a GitHub repository named exactly `rhushihebbar07` for your profile README.
+2. Copy `README.md` and the entire `assets/` folder into the repository root.
+3. Commit and push.
+4. GitHub will render the README automatically.
 
-Copy `README.md`, `assets/`, and `.github/` into your profile repository.
-
-The design uses a calm editorial palette:
-- warm ivory
-- sage green
-- charcoal
-- soft gray
-
-It intentionally avoids neon/cyberpunk styling and keeps motion subtle.
-
-Update the LinkedIn URL and email if needed.
+## Important
+- Keep the `assets/` folder beside `README.md`.
+- Replace the LinkedIn URL with your actual profile URL.
+- The GitHub stats use external services and may occasionally be unavailable.
