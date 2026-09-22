@@ -1,141 +1,216 @@
 <div align="center">
 
-# `RHUSHI HEBBAR`
+# ⚡ RHUSHI HEBBAR — IDENTITY SYSTEM
 
-### `A CINEMATIC GITHUB PROFILE`
+### `DEVELOPER  •  DESIGNER  •  BUILDER`
 
-<img src="assets/01_boot.gif" width="100%" alt="Cinematic opening">
+<img src="assets/cinematic-id-reveal.gif" width="100%" alt="Cinematic futuristic ID reveal"/>
 
-</div>
+<br/>
 
----
-
-# `THE EXPERIENCE`
-
-This profile is designed like a **short cinematic sequence** rather than a conventional README.
-
-**Scroll → scene → character → reveal → next scene.**
-
-> GitHub does not expose page-scroll events to Markdown, so the cinematic effect is achieved with full-width animated film scenes that autoplay as you move through the profile.
-
----
-
-<div align="center">
-<img src="assets/02_reveal.gif" width="100%" alt="Cinematic name reveal">
-</div>
-
-## `01 / WHO IS RHUSHI?`
-
-I'm an **MCA student and developer** interested in building software where engineering, AI, data, cloud and visual design meet.
-
-```text
-ROLE
-  ├── Software Developer
-  ├── AI / ML Explorer
-  ├── Cloud & Data Learner
-  └── Creative Technologist
-```
-
----
-
-<div align="center">
-<img src="assets/03_identity.gif" width="100%" alt="Cinematic identity scene">
-</div>
-
-## `02 / THE IDEA`
-
-> **Don't just build something that works. Build something people remember.**
-
-My projects usually start as an experiment and evolve into a complete system, interface or visual experience.
-
----
-
-<div align="center">
-<img src="assets/04_stack.gif" width="100%" alt="Cinematic technology scene">
-</div>
-
-## `03 / THE TOOLKIT`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp,react,vite,flask,nodejs&theme=dark">
-<br><br>
-<img src="https://skillicons.dev/icons?i=sqlite,supabase,gcp,bigquery,git,github,vscode&theme=dark">
+**IDEAS INTO IMPACT**  
+`BUILD` · `LEARN` · `SHARE` · `REPEAT`
 
 </div>
 
 ---
 
+## ◈ SYSTEM ONLINE
+
+This README is designed as a **cinematic identity experience**, not a conventional profile page.
+
+The visual language combines:
+
+- **3D glass + machined-metal identity card**
+- **Electric-blue holographic lighting**
+- **Dark cinematic contrast**
+- **HUD / sci-fi interface geometry**
+- **Portrait-led personal branding**
+- **Progressive visual reveals**
+- **Responsive GitHub-native layout**
+- **Minimal typography with high-impact spacing**
+
+> **Design principle:** make the visitor discover the identity layer by layer instead of dropping every detail at once.
+
+---
+
+## ◉ IDENTITY CARD
+
 <div align="center">
-<img src="assets/05_projects.gif" width="100%" alt="Cinematic projects scene">
+<img src="assets/id-card-cinematic.png" width="100%" alt="Futuristic Rhushi Hebbar developer ID card"/>
 </div>
 
-## `04 / THE PROJECTS`
+### CARD ARCHITECTURE
 
-| PROJECT | STORY |
+| Layer | Purpose |
 |---|---|
-| **Resume Analyzer** | AI-assisted resume extraction, analysis, matching and generation |
-| **Semaphore / Aqua Saga** | Immersive event platform with a cinematic underwater identity |
-| **Billing / ERP** | Desktop business workflows for products, customers and suppliers |
-| **WESAD ECG ML** | ECG feature extraction and machine-learning experiments |
+| `PORTRAIT` | Human identity / visual anchor |
+| `NAMEPLATE` | Rhushi Hebbar identity lockup |
+| `HUD` | Technical / futuristic interface language |
+| `BLUE RIM` | Signature visual accent |
+| `MICROTEXT` | Premium detail and depth |
+| `QR ZONE` | Connection / portfolio entry point |
+| `SIGNATURE` | Personal mark |
+| `VERSION` | Product-like identity-system feel |
 
 ---
 
-<div align="center">
-<img src="assets/06_telemetry.gif" width="100%" alt="Cinematic GitHub telemetry">
-</div>
-
-## `05 / THE SIGNAL`
+## ◇ CLEAN ID PANEL
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rhushihebbar07&show_icons=true&hide_border=true&bg_color=030712&title_color=00eaff&icon_color=9b5cff&text_color=d8f7ff" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhushihebbar07&layout=compact&hide_border=true&bg_color=030712&title_color=00eaff&text_color=d8f7ff" height="180">
-
+<img src="assets/id-card-clean-panel.png" width="92%" alt="Clean futuristic identity panel"/>
 </div>
 
 ---
 
-<div align="center">
-<img src="assets/07_journey.gif" width="100%" alt="Cinematic journey scene">
-</div>
+## ▣ ABOUT THE BUILDER
 
-## `06 / THE JOURNEY`
+**Rhushi Hebbar** is presented here through a visual identity system built around one idea:
+
+> **Turn ideas into meaningful digital impact.**
+
+The README intentionally treats a GitHub profile like a **digital product launch screen** — visual first, information second.
+
+---
+
+## ◌ CORE SIGNAL
 
 ```text
-BCA
- │
- ├── Web Development
- ├── Python / Flask
- ├── Cloud / BigQuery
- ├── AI / ML
- │
- ▼
-MCA
- │
- └── THE NEXT CHAPTER
-       ↓
-     BUILD MORE
-       ↓
-     LEARN MORE
+01  BUILD
+02  LEARN
+03  SHARE
+04  REPEAT
+```
+
+```text
+SYSTEM:
+    CREATIVE ENGINEERING
+    DIGITAL DESIGN
+    SOFTWARE
+    VISUAL STORYTELLING
+
+MODE:
+    ALWAYS BUILDING
 ```
 
 ---
 
+## ⟡ VISUAL LANGUAGE
+
+```text
+┌─────────────────────────────────────────────────────┐
+│  IDENTITY                                           │
+│                                                     │
+│  HUMAN PORTRAIT       +       DIGITAL SYSTEM       │
+│                                                     │
+│  DARK MATERIAL        +       ELECTRIC BLUE        │
+│                                                     │
+│  CINEMATIC DEPTH      +       HUD PRECISION         │
+└─────────────────────────────────────────────────────┘
+```
+
+### Signature palette
+
+`#02050A` · `#0A1220` · `#1E7BFF` · `#8EC5FF` · `#F4F7FB`
+
+---
+
+## ⌁ THE README EXPERIENCE
+
+The page is structured as a cinematic sequence:
+
+**01 — SIGNAL**  
+The visitor sees the animated identity reveal.
+
+**02 — IDENTITY**  
+The futuristic ID card establishes the personal brand.
+
+**03 — SYSTEM**  
+Technical capabilities and working philosophy appear as interface modules.
+
+**04 — WORK**  
+Projects, experiments and builds become the main content layer.
+
+**05 — CONNECT**  
+Social links, contact and portfolio become the final navigation layer.
+
+This structure keeps the first viewport **visual, premium and uncluttered** while still allowing the complete profile to live underneath.
+
+---
+
+## ⊙ PROJECT MODULE
+
+Use this pattern for future projects:
+
+```text
+╭──────────────────────────────────────────────╮
+│ PROJECT / 001                                │
+│                                              │
+│ NAME                                         │
+│ short one-line description                  │
+│                                              │
+│ STACK: Python · Flask · SQL · AI             │
+│ STATUS: ACTIVE                               │
+│                                              │
+│ [ VIEW PROJECT ]   [ SOURCE ]                │
+╰──────────────────────────────────────────────╯
+```
+
+---
+
+## ◈ DESIGN RULES
+
+- Keep the **first screen cinematic**.
+- Use **one dominant accent color**.
+- Prefer **depth, glow and spacing** over visual clutter.
+- Reveal technical information progressively.
+- Keep every section readable on mobile.
+- Use image assets instead of fragile CSS/JavaScript tricks inside GitHub Markdown.
+- Treat every project as a **product module**, not a plain list item.
+
+---
+
+## ⚙️ ASSET MAP
+
+```text
+rhushi-futuristic-readme-pack/
+│
+├── README.md
+│
+└── assets/
+    ├── portrait-original.jpg
+    ├── id-card-cinematic.png
+    ├── id-card-clean-panel.png
+    └── cinematic-id-reveal.gif
+```
+
+---
+
+## ✦ NEXT-LEVEL EXTENSION
+
+For an even more cinematic profile, add:
+
+```text
+01  animated boot screen
+02  holographic skill matrix
+03  3D project cards
+04  contribution heatmap framed as a HUD
+05  animated timeline
+06  terminal-style command center
+07  achievements as collectible modules
+08  final contact / transmission screen
+```
+
+The result becomes less like a README and more like a **personal digital command center**.
+
+---
+
 <div align="center">
-<img src="assets/08_finale.gif" width="100%" alt="Cinematic finale">
 
 ### `END OF TRANSMISSION`
 
-**The story isn't finished.**
+**RHUSHI HEBBAR**
 
-[![GitHub](https://img.shields.io/badge/EXPLORE_CODE-00eaff?style=for-the-badge&logo=github&logoColor=030712)](https://github.com/rhushihebbar07)
-[![LinkedIn](https://img.shields.io/badge/CONNECT-9b5cff?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/)
-
-```text
-> SYSTEM STATUS: BUILDING
-> NEXT FRAME: UNKNOWN
-> MODE: KEEP EXPLORING_
-```
+`BUILD • LEARN • SHARE • REPEAT`
 
 </div>
