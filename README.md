@@ -1,47 +1,48 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                     RH // FUTURE NODE                         -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:06152B,100:00E5FF&text=RH%20%2F%2F%20FUTURE%20NODE&fontColor=FFFFFF&fontSize=42&fontAlignY=38&animation=twinkling&desc=DEVELOPER%20%7C%20AI%20%7C%20AUTOMATION%20%7C%20CREATIVE%20TECH&descColor=8BE9FD&descSize=15&descAlignY=62"/>
 
-<!--                     FUTURISTIC HERO                     -->
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:111827,100:00F5FF&text=RHUSHI%20HEBBAR&fontColor=FFFFFF&fontSize=55&fontAlignY=40&animation=twinkling&desc=FULL%20STACK%20%7C%20AI%20%7C%20AUTOMATION%20%7C%20CREATIVE%20TECH&descSize=16&descAlignY=62&descColor=67E8F9"/>
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=850&height=55&lines=%3E_+Initializing+RhushiOS...;%3E_+MCA+Developer+%7C+India;%3E_+Building+AI-powered+web+systems;%3E_+Automating+the+boring+stuff;%3E_+Designing+the+future..."/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=21&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=850&height=55&lines=%3E_+Booting+RH+Future+Node...;%3E_+System+Online+%E2%9C%85;%3E_+MCA+Developer+%F0%9F%8E%93;%3E_+Building+AI-powered+systems+%F0%9F%A4%96;%3E_+Automating+the+ordinary+%E2%9A%A1;%3E_+Designing+the+future+%F0%9F%9A%80"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=rhushihebbar07&style=for-the-badge&color=00F5FF&label=SYSTEM+VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=rhushihebbar07&style=for-the-badge&color=00E5FF&label=NODE+VISITS"/>
 
-<img src="https://img.shields.io/github/followers/rhushihebbar07?style=for-the-badge&logo=github&label=NETWORK&color=111827"/>
+<img src="https://img.shields.io/github/followers/rhushihebbar07?style=for-the-badge&logo=github&label=NETWORK&color=06152B"/>
 
-<img src="https://img.shields.io/github/stars/rhushihebbar07?style=for-the-badge&logo=github&label=STARS&color=111827"/>
+<img src="https://img.shields.io/github/stars/rhushihebbar07?style=for-the-badge&logo=github&label=STARS&color=06152B"/>
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║                    ██████╗ ██╗  ██╗                             ║
-║                    ██╔══██╗╚██╗██╔╝                             ║
-║                    ██████╔╝ ╚███╔╝                              ║
-║                    ██╔══██╗ ██╔██╗                              ║
-║                    ██║  ██║██╔╝ ██╗                             ║
-║                    ╚═╝  ╚═╝╚═╝  ╚═╝                             ║
-║                                                                  ║
-║             SYSTEM STATUS : ONLINE 🟢                           ║
-║             MODE           : BUILDING                           ║
-║             LOCATION       : INDIA 🇮🇳                           ║
-║             MISSION       : CREATE • AUTOMATE • INNOVATE       ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│                 ██████╗ ██╗  ██╗                            │
+│                 ██╔══██╗╚██╗██╔╝                            │
+│                 ██████╔╝ ╚███╔╝                             │
+│                 ██╔══██╗ ██╔██╗                             │
+│                 ██║  ██║██╔╝ ██╗                            │
+│                 ╚═╝  ╚═╝╚═╝  ╚═╝                            │
+│                                                              │
+│              RH // PERSONAL FUTURE NODE                     │
+│                                                              │
+│       SYSTEM      : ONLINE 🟢                               │
+│       MODE        : BUILDING                                │
+│       CORE        : PYTHON + FLASK                          │
+│       DOMAIN      : AI / WEB / AUTOMATION                   │
+│       MISSION     : CREATE • AUTOMATE • INNOVATE            │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
 </div>
@@ -50,37 +51,35 @@
 
 # `01 // IDENTITY`
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=2000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=%5B+IDENTITY+VERIFIED+%5D;%5B+ACCESS+GRANTED+%5D;%5B+WELCOME+TO+RHUSHI'S+NODE+%5D"/>
+
+</div>
+
 <table>
 <tr>
 <td width="60%">
 
-### 👨‍💻 `WHO_AM_I()`
-
-```python
-class RhushiHebbar:
-
-    role = "MCA Student"
-    focus = [
-        "Web Development",
-        "AI Integration",
-        "Automation",
-        "Creative Technology"
-    ]
-
-    primary_stack = [
-        "Python",
-        "Flask",
-        "JavaScript",
-        "SQL"
-    ]
-
-    creative_stack = [
-        "UI/UX",
-        "Graphic Design",
-        "Photography"
-    ]
-
-    mission = "Build things people remember."
+```text
+┌─────────────────────────────────────────────┐
+│              USER PROFILE                   │
+├─────────────────────────────────────────────┤
+│                                             │
+│  NAME       : Rhushi Hebbar                │
+│  ROLE       : MCA Student / Developer       │
+│  REGION     : India 🇮🇳                     │
+│                                             │
+│  SPECIALTY  :                               │
+│    → Web Development                        │
+│    → AI Integration                         │
+│    → Automation                             │
+│    → UI / UX                                │
+│    → Creative Technology                    │
+│                                             │
+│  STATUS     : BUILDING 🚀                   │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
 
 </td>
@@ -95,11 +94,47 @@ class RhushiHebbar:
 
 ---
 
-# `02 // SYSTEM CAPABILITIES`
+# `02 // ABOUT THE OPERATOR`
+
+```python
+class RhushiHebbar:
+
+    identity = "Developer + Creative Technologist"
+
+    education = "MCA"
+
+    interests = [
+        "Web Development",
+        "Artificial Intelligence",
+        "Automation",
+        "UI/UX",
+        "Graphic Design"
+    ]
+
+    primary_stack = [
+        "Python",
+        "Flask",
+        "JavaScript",
+        "SQL"
+    ]
+
+    philosophy = """
+    Technology should not only work.
+    It should feel intelligent,
+    look beautiful,
+    and solve real problems.
+    """
+
+    mission = "Build the future, one system at a time."
+```
+
+---
+
+# `03 // SYSTEM CAPABILITIES`
 
 <div align="center">
 
-### ⚡ CORE TECHNOLOGY MATRIX
+### `TECHNOLOGY MATRIX`
 
 <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,bootstrap,sqlite&perline=7"/>
 
@@ -116,87 +151,119 @@ class RhushiHebbar:
 <br>
 
 ```text
-┌───────────────────────┬───────────────────────────────────────┐
-│ DOMAIN                │ CAPABILITY                            │
-├───────────────────────┼───────────────────────────────────────┤
-│ BACKEND               │ Python • Flask • REST APIs             │
-│ FRONTEND              │ HTML • CSS • JavaScript • Bootstrap    │
-│ DATABASE              │ SQLite • SQL                          │
-│ AUTOMATION            │ Python Automation • Web Workflows     │
-│ AI                    │ AI APIs • Intelligent Applications    │
-│ DESIGN                │ Photoshop • Figma • Visual Design     │
-│ DEVOPS                │ Git • GitHub • Vercel • Netlify       │
-└───────────────────────┴───────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                     CAPABILITY MATRIX                       ║
+╠══════════════════╦═══════════════════════════════════════════╣
+║ BACKEND          ║ Python • Flask • REST APIs                ║
+║ FRONTEND         ║ HTML • CSS • JavaScript • Bootstrap       ║
+║ DATABASE         ║ SQLite • SQL                              ║
+║ AI               ║ AI APIs • AI-powered workflows            ║
+║ AUTOMATION       ║ Python Automation • Web Automation        ║
+║ DESIGN           ║ Photoshop • Figma • Visual Design         ║
+║ DEVOPS           ║ Git • GitHub • Vercel • Netlify           ║
+╚══════════════════╩═══════════════════════════════════════════╝
 ```
 
 ---
 
-# `03 // ACTIVE MISSION`
+# `04 // CURRENT OPERATIONS`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1800&pause=500&color=00F5FF&center=true&vCenter=true&width=850&height=50&lines=%5B+PROJECT+RUNNING+%5D;%5B+AI+INTEGRATION+%5D;%5B+AUTOMATION+ENGINE+%5D;%5B+WEB+SYSTEM+ARCHITECTURE+%5D;%5B+UI%2FUX+EXPERIMENTS+%5D"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=19&duration=1800&pause=500&color=00F5FF&center=true&vCenter=true&width=850&height=45&lines=%5B+MISSION+01+%5D+AI+INTEGRATION;%5B+MISSION+02+%5D+WEB+SYSTEMS;%5B+MISSION+03+%5D+AUTOMATION;%5B+MISSION+04+%5D+UI%2FUX+EXPERIMENTS;%5B+MISSION+05+%5D+NEXT-GEN+PROJECTS"/>
 
 </div>
 
 <br>
 
 ```text
-                         ╭─────────────────────╮
-                         │   CURRENT OBJECTIVE │
-                         ╰──────────┬──────────╯
-                                    │
-                    ┌───────────────┼───────────────┐
-                    ▼               ▼               ▼
-              ┌──────────┐   ┌──────────┐   ┌──────────┐
-              │   AI     │   │   WEB    │   │AUTOMATE  │
-              │ SYSTEMS  │   │  APPS    │   │ WORKFLOW │
-              └──────────┘   └──────────┘   └──────────┘
-                    │               │               │
-                    └───────────────┼───────────────┘
-                                    ▼
-                         ┌────────────────────┐
-                         │   FUTURE BUILDS    │
-                         └────────────────────┘
+                         ┌───────────────────┐
+                         │  FUTURE OBJECTIVE │
+                         └─────────┬─────────┘
+                                   │
+              ┌────────────────────┼────────────────────┐
+              │                    │                    │
+              ▼                    ▼                    ▼
+       ┌─────────────┐      ┌─────────────┐      ┌─────────────┐
+       │     AI      │      │     WEB     │      │ AUTOMATION  │
+       │   SYSTEMS   │      │   SYSTEMS  │      │   SYSTEMS   │
+       └──────┬──────┘      └──────┬──────┘      └──────┬──────┘
+              │                    │                    │
+              └────────────────────┼────────────────────┘
+                                   ▼
+                         ┌───────────────────┐
+                         │  FUTURE BUILDS 🚀 │
+                         └───────────────────┘
 ```
 
 ---
 
-# `04 // FEATURED BUILD`
+# `05 // FEATURED BUILD`
 
 <div align="center">
 
 ## 🎓 `PROJECT CERTIFICATE ENGINE`
 
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-00F5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FLASK-BACKEND-111827?style=for-the-badge&logo=flask"/>
-<img src="https://img.shields.io/badge/PYTHON-CORE-111827?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/AI-INTEGRATED-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PDF-AUTOMATION-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 </div>
 
-> A futuristic college workflow platform designed to transform project submission, faculty approval and certificate generation into one automated system.
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                  PROJECT SYSTEM                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  INPUT                                                      │
+│    │                                                        │
+│    ├── Student                                              │
+│    ├── GitHub Repository                                    │
+│    └── Project Information                                  │
+│                                                             │
+│                       ↓                                     │
+│                                                             │
+│  PROCESSING                                                 │
+│    │                                                        │
+│    ├── Authentication                                       │
+│    ├── Faculty Review                                       │
+│    ├── Approval Workflow                                    │
+│    └── AI Processing                                        │
+│                                                             │
+│                       ↓                                     │
+│                                                             │
+│  OUTPUT                                                     │
+│    │                                                        │
+│    ├── Generated Certificate                                │
+│    ├── PDF Document                                         │
+│    └── Email Delivery                                       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-### `SYSTEM FEATURES`
+### ⚙️ Core Features
 
 ```text
 01  🔐 Authentication
 02  🔗 GitHub Project Submission
 03  👨‍🏫 Faculty Review
-04  ✅ Project Approval
+04  ✅ Approval Workflow
 05  🤖 AI Integration
-06  📄 Automated PDF Generation
-07  📧 Email Delivery
-08  🗄️ Database Management
-09  🎨 Responsive Interface
+06  📄 PDF Generation
+07  📧 SMTP Email Delivery
+08  🗄️ SQLite Database
+09  🎨 Responsive UI
 ```
 
 <div align="center">
 
 <a href="https://github.com/rhushihebbar07/certificate-genrater">
 
-<img src="https://img.shields.io/badge/ACCESS_REPOSITORY-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/OPEN_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
 
 </a>
 
@@ -204,7 +271,7 @@ class RhushiHebbar:
 
 ---
 
-# `05 // GITHUB CORE`
+# `06 // GITHUB TELEMETRY`
 
 <div align="center">
 
@@ -218,13 +285,13 @@ class RhushiHebbar:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rhushihebbar07&theme=transparent&hide_border=true&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=888888&background=050816" width="75%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rhushihebbar07&theme=transparent&hide_border=true&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=8AA0AA&background=050816" width="80%"/>
 
 </div>
 
 ---
 
-# `06 // ACTIVITY STREAM`
+# `07 // ACTIVITY STREAM`
 
 <div align="center">
 
@@ -234,7 +301,7 @@ class RhushiHebbar:
 
 ---
 
-# `07 // ACHIEVEMENT PROTOCOL`
+# `08 // ACHIEVEMENT PROTOCOL`
 
 <div align="center">
 
@@ -244,7 +311,7 @@ class RhushiHebbar:
 
 ---
 
-# `08 // CONTRIBUTION MATRIX`
+# `09 // CONTRIBUTION MATRIX`
 
 <div align="center">
 
@@ -254,32 +321,50 @@ class RhushiHebbar:
 
 ---
 
-# `09 // TERMINAL`
+# `10 // DEVELOPMENT TERMINAL`
 
-```bash
-┌──(rhushi㉿github)-[~/future]
-
-$ whoami
-
-rhushi_hebbar
-
-$ cat mission.txt
-
-Build intelligent systems.
-Automate repetitive workflows.
-Create beautiful interfaces.
-Keep learning.
-
-$ ./future.sh
-
-[████████████████████████████████████] 100%
-
-STATUS: READY TO BUILD 🚀
+```text
+╭────────────────────────────────────────────────────────────╮
+│ RHUSHI@FUTURE-NODE                                         │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│ $ whoami                                                   │
+│ rhushi_hebbar                                              │
+│                                                            │
+│ $ system.status                                            │
+│ ONLINE                                                     │
+│                                                            │
+│ $ system.mode                                              │
+│ BUILDING                                                   │
+│                                                            │
+│ $ mission                                                  │
+│ Build intelligent systems.                                 │
+│ Automate repetitive workflows.                             │
+│ Create beautiful interfaces.                               │
+│ Keep learning.                                             │
+│                                                            │
+│ $ future                                                   │
+│                                                            │
+│ [████████████████████████████████] 100%                    │
+│                                                            │
+│ STATUS: READY TO BUILD 🚀                                  │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-# `10 // CONNECT`
+# `11 // RANDOM TRANSMISSION`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&height=50&lines=%3E_+Code+is+the+language.;%3E_+Creativity+is+the+interface.;%3E_+Automation+is+the+engine.;%3E_+Innovation+is+the+mission."/>
+
+</div>
+
+---
+
+# `12 // CONNECT TO NODE`
 
 <div align="center">
 
@@ -288,11 +373,11 @@ STATUS: READY TO BUILD 🚀
 </a>
 
 <a href="https://linkedin.com/in/rhushihebbar07">
-<img src="https://img.shields.io/badge/LINKEDIN-00A8FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/rhushihebbar07">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 <a href="https://discord.com/users/rhushihebbar07">
@@ -305,10 +390,14 @@ STATUS: READY TO BUILD 🚀
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&height=45&lines=%3E_+END_OF_TRANSMISSION;%3E_+KEEP_BUILDING.;%3E_+KEEP_EXPERIMENTING.;%3E_+THE+FUTURE+IS+CODED."/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=%3E_+END_OF_TRANSMISSION;%3E_+KEEP_BUILDING.;%3E_+KEEP_EXPERIMENTING.;%3E_+THE+FUTURE+IS+CODED."/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,50:111827,100:050816&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00E5FF,50:06152B,100:020617&animation=twinkling"/>
+
+### `RH // FUTURE NODE`
+
+**Built with ❤️, curiosity & code.**
 
 </div>
