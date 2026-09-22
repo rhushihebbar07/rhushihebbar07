@@ -1,96 +1,202 @@
-<img src="https://i.pinimg.com/originals/6a/54/f0/6a54f00d7d60b3e15b6ee0c7d2ffb0f2.gif" width="100%">
-
 <div align="center">
 
-# ⚡ RHUSHI HEBBAR
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=70&duration=3000&pause=1000&color=F76647&lines=Hey+There!+👋;I'm+Rhushi+Hebbar;MCA+Student+🎓;Flask+Developer+🐍;Web+Developer+💻;Automation+Enthusiast+⚡;Creative+Designer+🎨" />
+<!--                     FUTURISTIC HERO                     -->
 
-### 🚀 MCA Student • Flask Developer • Web Developer • Automation Enthusiast • Graphic Designer
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:111827,100:00F5FF&text=RHUSHI%20HEBBAR&fontColor=FFFFFF&fontSize=55&fontAlignY=40&animation=twinkling&desc=FULL%20STACK%20%7C%20AI%20%7C%20AUTOMATION%20%7C%20CREATIVE%20TECH&descSize=16&descAlignY=62&descColor=67E8F9"/>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=850&height=55&lines=%3E_+Initializing+RhushiOS...;%3E_+MCA+Developer+%7C+India;%3E_+Building+AI-powered+web+systems;%3E_+Automating+the+boring+stuff;%3E_+Designing+the+future..."/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=rhushihebbar07&label=PROFILE+VIEWS&color=F76647&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/rhushihebbar07?label=FOLLOWERS&style=for-the-badge&color=181717&logo=github" />
-<img src="https://img.shields.io/github/stars/rhushihebbar07?label=STARS&style=for-the-badge&color=yellow&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=rhushihebbar07&style=for-the-badge&color=00F5FF&label=SYSTEM+VISITORS"/>
+
+<img src="https://img.shields.io/github/followers/rhushihebbar07?style=for-the-badge&logo=github&label=NETWORK&color=111827"/>
+
+<img src="https://img.shields.io/github/stars/rhushihebbar07?style=for-the-badge&logo=github&label=STARS&color=111827"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║                    ██████╗ ██╗  ██╗                             ║
+║                    ██╔══██╗╚██╗██╔╝                             ║
+║                    ██████╔╝ ╚███╔╝                              ║
+║                    ██╔══██╗ ██╔██╗                              ║
+║                    ██║  ██║██╔╝ ██╗                             ║
+║                    ╚═╝  ╚═╝╚═╝  ╚═╝                             ║
+║                                                                  ║
+║             SYSTEM STATUS : ONLINE 🟢                           ║
+║             MODE           : BUILDING                           ║
+║             LOCATION       : INDIA 🇮🇳                           ║
+║             MISSION       : CREATE • AUTOMATE • INNOVATE       ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-<img align="right" alt="Coding Animation" width="400" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif">
+# `01 // IDENTITY`
 
-## 👨‍💻 About Me
+<table>
+<tr>
+<td width="60%">
 
-🎓 **MCA Student** passionate about building useful and visually engaging software.
+### 👨‍💻 `WHO_AM_I()`
 
-💻 I enjoy turning ideas into **web applications, automation tools and digital experiences**.
+```python
+class RhushiHebbar:
 
-🐍 My main development stack revolves around **Python + Flask**.
+    role = "MCA Student"
+    focus = [
+        "Web Development",
+        "AI Integration",
+        "Automation",
+        "Creative Technology"
+    ]
 
-🎨 I also work with **graphic design, photography, UI design and digital content**.
+    primary_stack = [
+        "Python",
+        "Flask",
+        "JavaScript",
+        "SQL"
+    ]
 
-🤖 Currently exploring **AI-powered applications and automation**.
+    creative_stack = [
+        "UI/UX",
+        "Graphic Design",
+        "Photography"
+    ]
 
-⚡ I love combining **technology + creativity** to build things that actually solve problems.
+    mission = "Build things people remember."
+```
 
-<br clear="right"/>
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 What I Do
+# `02 // SYSTEM CAPABILITIES`
+
+<div align="center">
+
+### ⚡ CORE TECHNOLOGY MATRIX
+
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,bootstrap,sqlite&perline=7"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel,netlify&perline=7"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=photoshop,figma&perline=7"/>
+
+</div>
+
+<br>
 
 ```text
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│   💻 Web Development        → Flask • HTML • CSS • JS   │
-│                                                          │
-│   🤖 AI Integration         → APIs • Automation         │
-│                                                          │
-│   🗄️ Database Development   → SQLite • SQL             │
-│                                                          │
-│   🎨 Creative Design        → Photoshop • Figma         │
-│                                                          │
-│   ⚙️ Workflow Automation    → Python • Web Automation   │
-│                                                          │
-│   🌐 Deployment             → Vercel • Netlify          │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
+┌───────────────────────┬───────────────────────────────────────┐
+│ DOMAIN                │ CAPABILITY                            │
+├───────────────────────┼───────────────────────────────────────┤
+│ BACKEND               │ Python • Flask • REST APIs             │
+│ FRONTEND              │ HTML • CSS • JavaScript • Bootstrap    │
+│ DATABASE              │ SQLite • SQL                          │
+│ AUTOMATION            │ Python Automation • Web Workflows     │
+│ AI                    │ AI APIs • Intelligent Applications    │
+│ DESIGN                │ Photoshop • Figma • Visual Design     │
+│ DEVOPS                │ Git • GitHub • Vercel • Netlify       │
+└───────────────────────┴───────────────────────────────────────┘
 ```
 
 ---
 
-# 🔥 Featured Project
+# `03 // ACTIVE MISSION`
 
 <div align="center">
 
-## 🎓 College Project Approval & Certificate Generator
-
-<img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1800&pause=500&color=00F5FF&center=true&vCenter=true&width=850&height=50&lines=%5B+PROJECT+RUNNING+%5D;%5B+AI+INTEGRATION+%5D;%5B+AUTOMATION+ENGINE+%5D;%5B+WEB+SYSTEM+ARCHITECTURE+%5D;%5B+UI%2FUX+EXPERIMENTS+%5D"/>
 
 </div>
 
-> 🚀 A Flask-based platform where students submit their **GitHub project links** for faculty review and receive **AI-generated PDF certificates** after approval.
+<br>
 
-### ✨ Features
+```text
+                         ╭─────────────────────╮
+                         │   CURRENT OBJECTIVE │
+                         ╰──────────┬──────────╯
+                                    │
+                    ┌───────────────┼───────────────┐
+                    ▼               ▼               ▼
+              ┌──────────┐   ┌──────────┐   ┌──────────┐
+              │   AI     │   │   WEB    │   │AUTOMATE  │
+              │ SYSTEMS  │   │  APPS    │   │ WORKFLOW │
+              └──────────┘   └──────────┘   └──────────┘
+                    │               │               │
+                    └───────────────┼───────────────┘
+                                    ▼
+                         ┌────────────────────┐
+                         │   FUTURE BUILDS    │
+                         └────────────────────┘
+```
 
-* 🔐 Student & admin authentication
-* 🔗 GitHub project submission
-* 👨‍🏫 Project approval workflow
-* 🤖 AI-powered certificate generation
-* 📄 Automated PDF generation
-* 📧 SMTP email integration
-* 🗄️ SQLite database
-* 🎨 Responsive web interface
+---
+
+# `04 // FEATURED BUILD`
+
+<div align="center">
+
+## 🎓 `PROJECT CERTIFICATE ENGINE`
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00F5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FLASK-BACKEND-111827?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/PYTHON-CORE-111827?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/AI-INTEGRATED-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PDF-AUTOMATION-111827?style=for-the-badge"/>
+
+</div>
+
+> A futuristic college workflow platform designed to transform project submission, faculty approval and certificate generation into one automated system.
+
+### `SYSTEM FEATURES`
+
+```text
+01  🔐 Authentication
+02  🔗 GitHub Project Submission
+03  👨‍🏫 Faculty Review
+04  ✅ Project Approval
+05  🤖 AI Integration
+06  📄 Automated PDF Generation
+07  📧 Email Delivery
+08  🗄️ Database Management
+09  🎨 Responsive Interface
+```
 
 <div align="center">
 
 <a href="https://github.com/rhushihebbar07/certificate-genrater">
 
-<img src="https://img.shields.io/badge/VIEW_PROJECT-FF4B2B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/ACCESS_REPOSITORY-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
 
 </a>
 
@@ -98,51 +204,13 @@
 
 ---
 
-# 🛠️ Tech Arsenal
-
-### 👨‍💻 Programming & Web
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,flask,bootstrap,sqlite" />
-
-</p>
-
-### ⚙️ Development Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
-
-</p>
-
-### 🎨 Design & Deployment
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=photoshop,figma,vercel,netlify" />
-
-</p>
-
----
-
-# ⚡ Current Focus
+# `05 // GITHUB CORE`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&center=true&vCenter=true&width=700&height=50&duration=2500&pause=700&color=00F7FF&lines=Building+AI+Powered+Web+Applications;Learning+Advanced+Python+%26+Flask;Exploring+Automation;Creating+Better+UI%2FUX;Turning+Ideas+Into+Projects" />
+<img src="https://github-readme-stats.vercel.app/api?username=rhushihebbar07&show_icons=true&theme=transparent&hide_border=true&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&bg_color=050816&include_all_commits=true" height="180"/>
 
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rhushihebbar07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhushihebbar07&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhushihebbar07&layout=compact&theme=transparent&hide_border=true&title_color=00F5FF&text_color=FFFFFF&bg_color=050816" height="180"/>
 
 </div>
 
@@ -150,80 +218,85 @@
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=rhushihebbar07&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rhushihebbar07&theme=transparent&hide_border=true&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=888888&background=050816" width="75%"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Animation
+# `06 // ACTIVITY STREAM`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/animation.gif" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rhushihebbar07&bg_color=050816&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
-> 💡 For a real GitHub contribution snake, create a GitHub Actions workflow that generates `github-contribution-grid-snake.svg` and then embed the generated SVG here.
-
 ---
 
-# 🏆 GitHub Achievements
+# `07 // ACHIEVEMENT PROTOCOL`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rhushihebbar07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=rhushihebbar07&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%"/>
 
 </div>
 
 ---
 
-# 📈 Activity Graph
+# `08 // CONTRIBUTION MATRIX`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rhushihebbar07&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
 ---
 
-# 💬 Developer Quote
+# `09 // TERMINAL`
 
-<div align="center">
+```bash
+┌──(rhushi㉿github)-[~/future]
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+$ whoami
 
-</div>
+rhushi_hebbar
+
+$ cat mission.txt
+
+Build intelligent systems.
+Automate repetitive workflows.
+Create beautiful interfaces.
+Keep learning.
+
+$ ./future.sh
+
+[████████████████████████████████████] 100%
+
+STATUS: READY TO BUILD 🚀
+```
 
 ---
 
-# 🌐 Let's Connect
+# `10 // CONNECT`
 
 <div align="center">
 
 <a href="mailto:rhushihebbar22@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/EMAIL-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/rhushihebbar07">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/LINKEDIN-00A8FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/rhushihebbar07">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://discord.com/users/rhushihebbar07">
-
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </div>
@@ -232,16 +305,10 @@
 
 <div align="center">
 
-### ⚡ "Turning ideas into code, and code into experiences."
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&center=true&vCenter=true&width=600&height=50&duration=3000&color=F76647&lines=Code+%7C+Create+%7C+Automate+%7C+Innovate+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&height=45&lines=%3E_+END_OF_TRANSMISSION;%3E_+KEEP_BUILDING.;%3E_+KEEP_EXPERIMENTING.;%3E_+THE+FUTURE+IS+CODED."/>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-### ❤️ Made with passion by **Rhushi Hebbar**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,50:111827,100:050816&animation=twinkling"/>
 
 </div>
